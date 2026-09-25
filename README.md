@@ -27,17 +27,48 @@
 
 ## ◆ Projetos
 
-<div align="center">
-  <a href="https://github.com/MicaelSanPedro/TuneGrab">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MicaelSanPedro&repo=TuneGrab&show_owner=true&hide_border=true&bg_color=000000&title_color=FF4444&icon_color=FF4444&text_color=C9D1D9" alt="TuneGrab" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MicaelSanPedro/TuneGrab"><img src="https://img.shields.io/badge/TuneGrab-000000?style=for-the-badge&logo=android&logoColor=FF4444" alt="TuneGrab" /></a><br>
+      <sub>App Android pra baixar áudio (MP3, M4A, OPUS) e vídeo (MP4) do YouTube — direto no aparelho, sem servidor e sem anúncios.</sub><br>
+      <img src="https://img.shields.io/github/stars/MicaelSanPedro/TuneGrab?style=flat&labelColor=000000&color=7f1d1d&logo=github&logoColor=FF4444" alt="estrelas" />
+      <img src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MicaelSanPedro/ytgrab"><img src="https://img.shields.io/badge/ytgrab-000000?style=for-the-badge&logo=rust&logoColor=FF4444" alt="ytgrab" /></a><br>
+      <sub>Downloader de YouTube pra desktop — MP3, MP4, qualquer qualidade. Tauri v2 + yt-dlp.</sub><br>
+      <img src="https://img.shields.io/github/stars/MicaelSanPedro/ytgrab?style=flat&labelColor=000000&color=7f1d1d&logo=github&logoColor=FF4444" alt="estrelas" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=FFFFFF" alt="Rust" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MicaelSanPedro/sanchat"><img src="https://img.shields.io/badge/sanchat-000000?style=for-the-badge&logo=android&logoColor=FF4444" alt="sanchat" /></a><br>
+      <sub>Chat com IA no Android usando NVIDIA NIM via proxy na Vercel — a chave da API nunca fica no app. Streaming, 6 modelos e modo raciocínio.</sub><br>
+      <img src="https://img.shields.io/github/stars/MicaelSanPedro/sanchat?style=flat&labelColor=000000&color=7f1d1d&logo=github&logoColor=FF4444" alt="estrelas" />
+      <img src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MicaelSanPedro/ms-receitas"><img src="https://img.shields.io/badge/ms--receitas-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF4444" alt="ms-receitas" /></a><br>
+      <sub>Blog de notas de engenharia, IA aplicada e receitas que sobreviveram ao teste do tempo. Next.js + Markdown versionado.</sub><br>
+      <img src="https://img.shields.io/github/stars/MicaelSanPedro/ms-receitas?style=flat&labelColor=000000&color=7f1d1d&logo=github&logoColor=FF4444" alt="estrelas" />
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <a href="https://ms-receitas.vercel.app"><img src="https://img.shields.io/badge/Ver%20site-000000?style=flat&logo=vercel&logoColor=FFFFFF" alt="Ver site" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/MicaelSanPedro/techmate"><img src="https://img.shields.io/badge/techmate-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF4444" alt="techmate" /></a><br>
+      <sub>Blog BR de tech: tutoriais e dicas de Linux, Windows, dev, segurança e gaming — conteúdo honesto e prático, com design Liquid Glass.</sub><br>
+      <img src="https://img.shields.io/github/stars/MicaelSanPedro/techmate?style=flat&labelColor=000000&color=7f1d1d&logo=github&logoColor=FF4444" alt="estrelas" />
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <a href="https://techmatebr.vercel.app"><img src="https://img.shields.io/badge/Ver%20site-000000?style=flat&logo=vercel&logoColor=FFFFFF" alt="Ver site" /></a>
+    </td>
+  </tr>
+</table>
 
-<!-- ⬇ Pra adicionar outro projeto: copie o bloco de cima, troque TuneGrab pelo nome do repo e descomente.
-<a href="https://github.com/MicaelSanPedro/NOME_DO_REPO">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MicaelSanPedro&repo=NOME_DO_REPO&show_owner=true&hide_border=true&bg_color=000000&title_color=FF4444&icon_color=FF4444&text_color=C9D1D9" alt="Projeto" />
-</a>
--->
+<!-- ⬇ Novo projeto? Copia um <td> de cima, troca nome, descrição e badges, e cola na linha. -->
 
 ## ◆ GitHub Stats
 
@@ -51,12 +82,6 @@
 ## ◆ Activity Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MicaelSanPedro&bg_color=000000&color=C9D1D9&line=FF4444&point=FFFFFF&hide_border=true&area=true&area_color=7f1d1d" alt="Activity Graph" />
-
-## ◆ Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MicaelSanPedro&no-frame=true&column=7&margin-w=6&title=FF4444&text=C9C9C9&icon_color=FF4444" alt="GitHub Trophies" />
-</div>
 
 ## ◆ Snake
 
