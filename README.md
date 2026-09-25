@@ -79,10 +79,6 @@
 
 <img width="100%" src="https://streak-stats.demolab.com?user=MicaelSanPedro&hide_border=true&background=000000&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9C9C9&dates=8B8B8B" alt="Streak" />
 
-## ◆ Activity Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MicaelSanPedro&bg_color=000000&color=C9D1D9&line=FF4444&point=FFFFFF&hide_border=true&area=true&area_color=7f1d1d" alt="Activity Graph" />
-
 ## ◆ Snake
 
 <div align="center">
