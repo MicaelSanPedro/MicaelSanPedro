@@ -1,20 +1,19 @@
 <!-- ───────────────────────────────────────────────
      MICAEL SAN · PERFIL GITHUB
-     tema: preto puro + vermelho · zero template
+     direto ao ponto, sem cara de molde
      ─────────────────────────────────────────────── -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,55:1a0000,100:FF4444&section=header&text=MICAEL%20SAN&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=DESIGNER%20PROFISSIONAL&descSize=17&descAlignY=56" alt="Micael San — Designer Profissional" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=24&pause=1300&color=FF4444&center=true&vCenter=true&width=640&height=48&lines=Designer%20profissional;Design%20%C3%A9%20decis%C3%A3o%2C%20n%C3%A3o%20decora%C3%A7%C3%A3o;Seja%20bem-vindo%20ao%20meu%20espa%C3%A7o" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=24&pause=1300&color=FF4444&center=true&vCenter=true&width=640&height=48&lines=Designer%20profissional;Menos%20enrola%C3%A7%C3%A3o%2C%20mais%20design;Bem-vindo%20ao%20meu%20GitHub" alt="typing" />
 </div>
 
 ## ◆ Sobre mim
 
-> Sou **designer profissional** — meu trabalho começa antes da tela, na intenção.\
-> Gosto de contraste forte, composição limpa e identidade que ninguém confunde com molde pronto.\
-> **Preto é o meu idioma.** O vermelho eu uso quando quero ser ouvido.\
-> Aqui no GitHub ficam os projetos e experimentos — do rascunho até a coisa de verdade.
+> Sou **designer profissional** — resolvo problema com layout, hierarquia e detalhe bem acabado.\
+> Trabalho com Figma no dia a dia, gosto de coisa limpa e de entrega que funciona de verdade.\
+> Aqui no GitHub ficam meus projetos e experimentos. Quer trocar ideia? É só chamar.
 
 ## ◆ Tecnologias
 
@@ -82,5 +81,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF4444,50:1a0000,100:000000&section=footer&text=MICAEL%20SAN&fontSize=30&fontColor=ffffff&fontAlignY=68" alt="Rodapé" />
 
 <div align="center">
-  <sub><b>Preto sobre preto não existe — por isso o vermelho.</b></sub>
+  <sub><b>Gostou do que viu? Me chama no Instagram — a gente cria algo juntos.</b></sub>
 </div>
